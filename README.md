@@ -1,1 +1,1 @@
-colab
+Uma introdução à inteligencia artificial através do estudo de MLP com uso de python. Construção feita a partir das aulas do professor Rodrigo Guerra. Dataset utilizado foi o IrisFlower. Desenvolvido no google colaboratory. O código completo pode ser encontrado no link: https://colab.research.google.com/drive/1H1n1e-zGGBFruneJ1Qw4tMMYuFLFXYw3
