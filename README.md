@@ -1,4 +1,4 @@
-###Uma introdução à inteligencia artificial através do estudo de MLP com uso de python.
+### Uma introdução à inteligencia artificial através do estudo de MLP com uso de python.
 
 ---
 
